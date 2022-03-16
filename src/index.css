@@ -1,0 +1,13 @@
+html {
+    background-color: rgb(240, 224, 255);
+}
+
+button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(164, 103, 182);
+    padding: 5px 9px;
+    border-radius: 12px;
+}
